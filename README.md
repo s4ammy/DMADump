@@ -130,3 +130,4 @@ Without these files the tool still works; all PE images pass the hash check.
 - **[MemProcFS / PCILeech](https://github.com/ufrisk/MemProcFS)** by [@ufrisk](https://github.com/ufrisk) — DMA memory access, VAD/PTE maps, process enumeration
 - **[Process Dump](https://github.com/glmcdona/Process-Dump)** by [@glmcdona](https://github.com/glmcdona) — PE parsing, import reconstruction, export list, hash database, and section processing code that this project builds on
 - **[nmd](https://github.com/Nomade040/nmd)** by [@Nomade040](https://github.com/Nomade040) — embedded x86/x64 disassembler (`nmd_assembly.h`)
+- **CLAUDE**
